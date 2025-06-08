@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Tharunkumar Govindharaj
 
-<!--
-**Tharunkumar1411/Tharunkumar1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **Frontend Engineer** with a strong drive to build performant, scalable, and user-centric web apps — currently exploring the intersection of **AI + DevTools**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧠 Currently working as a **Frontend Engineer at ShopSe**
+- 🎨 Strong in **React.js**, **Next.js**, **Redux/Zustand**, and **Tailwind CSS**
+- 🛠️ Comfortable across the stack with **Node.js**, **MongoDB**, **Docker**, and **Jenkins**
+- 🤖 Exploring AI integrations via **Gemini API**, web scraping, and building summarization tools
+- 🧪 Love solving product problems with elegant code and thoughtful UX
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 AI Web Scraper & Summarizer  
+**Stack**: Node.js, Cheerio, Readability.js, Gemini API, Vercel  
+> Scrapes content from public web pages and uses Gemini LLM to generate human-friendly summaries.  
+[🔗 Live Demo](https://ai-scrap.vercel.app)
+
+### 🛒 E-commerce Platform (MERN Stack)  
+**Stack**: React, MongoDB, Node.js, Zustand, AWS S3  
+> Built 15+ scalable micro-frontend components and full backend with secure S3 integration.
+
+### 🧾 Unified NTB Eligibility Flow  
+**Stack**: React, Tailwind, Redux, TypeScript  
+> Simplified a 6-step per-lender flow into a unified 2-step process — boosted completion & conversions.
+
+### ⚙️ Admin Refund Dashboard  
+**Stack**: React, REST, Maker-Checker Pattern  
+> Developed for operations teams to automate lender refund approvals, reducing manual work by 50%.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+`React.js` · `Next.js` · `Tailwind CSS` · `Redux` · `Zustand` · `Material UI`
+
+**Backend & DevOps**  
+`Node.js` · `Express.js` · `MongoDB` · `Docker` · `Jenkins`
+
+**Tooling**  
+`Git` · `Webpack` · `Firebase` · `GraphQL` · `Jest` · `Xcode`
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [Portfolio Website](https://portfolio-tharunkumar.vercel.app)
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/Tharunkumar1411)
+- 🧠 [LeetCode](https://leetcode.com/u/tharunkumar1411)
+- 📧 tharung1411@gmail.com
+
+---
+
+_“Build fast. Think clean. Learn always.”_
