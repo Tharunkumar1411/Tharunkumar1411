@@ -24,15 +24,7 @@
 ### 🛒 E-commerce Platform (MERN Stack)  
 **Stack**: React, MongoDB, Node.js, Zustand, AWS S3  
 > Built 15+ scalable micro-frontend components and full backend with secure S3 integration.
-
-### 🧾 Unified NTB Eligibility Flow  
-**Stack**: React, Tailwind, Redux, TypeScript  
-> Simplified a 6-step per-lender flow into a unified 2-step process — boosted completion & conversions.
-
-### ⚙️ Admin Refund Dashboard  
-**Stack**: React, REST, Maker-Checker Pattern  
-> Developed for operations teams to automate lender refund approvals, reducing manual work by 50%.
-
+> [🔗 Live Demo](https://kicks-app-two.vercel.app/)
 ---
 
 ## 🛠 Tech Stack
